@@ -24,8 +24,6 @@ void main(){
     }
 
     avg = sum/count;
-    sq = x  count;
-
     printf("Average is %lf", avg);
 
   return 0;
